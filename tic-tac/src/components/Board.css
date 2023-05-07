@@ -1,0 +1,7 @@
+.Board{
+    width: 150px;
+    height: 150px;
+    border: 5px solid black;
+    background-size: cover;
+    display: inline-block;
+}
